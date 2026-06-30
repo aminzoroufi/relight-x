@@ -1,3 +1,13 @@
+"""ReLight-X source file.
+
+Project: ReLight-X
+Developer: Amin Zoroufi
+Role: AI Researcher / XR Developer
+Location: Dubai, UAE
+Contact: aminn.zoroufi@gmail.com
+Usage: part of the ReLight-X digital twin, adaptive-lighting simulation, board testing, or validation toolchain.
+"""
+
 from launch import LaunchDescription
 from launch.actions import DeclareLaunchArgument
 from launch.substitutions import LaunchConfiguration

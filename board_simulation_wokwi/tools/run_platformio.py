@@ -1,3 +1,13 @@
+"""ReLight-X source file.
+
+Project: ReLight-X
+Developer: Amin Zoroufi
+Role: AI Researcher / XR Developer
+Location: Dubai, UAE
+Contact: aminn.zoroufi@gmail.com
+Usage: part of the ReLight-X digital twin, adaptive-lighting simulation, board testing, or validation toolchain.
+"""
+
 #!/usr/bin/env python3
 """Small launcher for VS Code tasks so they do not depend on a global `pio` path."""
 
